@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-## Date:
+## Date:24/12/25
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -33,9 +33,47 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="android-medium">
+      <img class="pongal" src="img/pongal-2026-1.png" />
+      <div class="rectangle"></div>
+      <p class="date">Date: 10/01/2026<br />Timing: 8.00 am<br />Dress code : tradtional attire</p>
+    </div>
+  </body>
+</html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="android-medium">
+      <img class="images" src="img/images-1.png" />
+      <div class="rectangle"></div>
+      <p class="DJ-NIGHT-venue-SEC">
+        DJ NIGHT<br />Venue : SEC campus<br />Timing : 6.00pm to 12.00am<br />Dress code : casuals
+      </p>
+    </div>
+  </body>
+</html>
+```
 
 
 ## OUTPUT:
+![alt text](<Screenshot 2025-12-24 105945.png>)
+
 
 
 ## RESULT:
